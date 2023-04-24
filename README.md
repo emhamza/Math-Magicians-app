@@ -29,8 +29,7 @@
 - [📝 License](#license)
 
 # 📖 [Math Magician App] <a name="about-project"></a>
-This project is a web application that uses JavaScript to fetch data from a meal API and display meal categories along with their respective images, titles, and buttons for comments and reservations. The application also uses media queries to apply responsive styling for different screen sizes, making it accessible on desktop and mobile devices.  
-
+Math Magician is a user-friendly app with a sleek design and a highly functional calculator, created using the React library. Its intuitive interface and responsive design make it accessible on any device, while the power of React allows for scalability and flexibility. It's an essential tool for anyone who frequently deals with mathematical calculations, making complex operations simple and accurate.
 ## 🛠 Built With <a name="built-with"></a>
 
 -React
