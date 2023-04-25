@@ -1,4 +1,3 @@
-import Screen from './components/Screen';
 import Calculator from './components/Calculator';
 import ButtonBox from './components/ButtonBox';
 import Button from './components/Button';
@@ -15,7 +14,6 @@ function App() {
   return (
     <div>
       <Calculator>
-        <Screen />
         <ButtonBox>
           {btnValues.flat().map((btn) => (
             <Button
