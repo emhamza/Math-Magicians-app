@@ -1,4 +1,5 @@
-/* eslint-disable react/prop-types */
+import PropTypes from 'prop-types';
+
 const getStyles = (btn) => {
   const className = {
     0: 'bigbtn',
@@ -16,5 +17,9 @@ const Button = ({ value }) => (
     {value}
   </button>
 );
+
+Button.propTypes = {
+  value: PropTypes.string.isRequired,
+};
 
 export default Button;
