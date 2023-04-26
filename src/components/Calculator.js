@@ -14,10 +14,7 @@ const Calculator = () => (
     <div className="screen">0</div>
     <ButtonBox>
       {btnValues.flat().map((btn) => (
-        <Button
-          value={btn.label}
-          key={btn.id}
-        />
+        <Button value={btn.label} key={btn.id} />
       ))}
     </ButtonBox>
   </div>
