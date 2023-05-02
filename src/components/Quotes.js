@@ -44,7 +44,7 @@ function Quotes() {
   const isLoading = state.status === 'loading';
 
   return (
-    <blockquote>
+    <>
       {isLoading ? (
         <p>Loading...</p>
       ) : (
@@ -54,7 +54,7 @@ function Quotes() {
           <b>{`-- ${quotes?.author}`}</b>
         </>
       )}
-    </blockquote>
+    </>
   );
 }
 
