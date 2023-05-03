@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator renders correctly 1`] = `
+<DocumentFragment>
+  <h3>
+    Lets do some Math!
+  </h3>
+  <div
+    class="calculator"
+  >
+    <div
+      class="screen"
+    >
+      <p>
+        0  
+      </p>
+    </div>
+    <div
+      class="buttonBox"
+    >
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        AC
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        +/-
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        %
+      </button>
+      <button
+        class="operator button"
+        type="submit"
+      >
+        ÷
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        7
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        8
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        9
+      </button>
+      <button
+        class="operator button"
+        type="submit"
+      >
+        x
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        4
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        5
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        6
+      </button>
+      <button
+        class="operator button"
+        type="submit"
+      >
+        -
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        1
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        2
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        3
+      </button>
+      <button
+        class="operator button"
+        type="submit"
+      >
+        +
+      </button>
+      <button
+        class="bigbtn button"
+        type="submit"
+      >
+        0
+      </button>
+      <button
+        class="undefined button"
+        type="submit"
+      >
+        .
+      </button>
+      <button
+        class="operator button"
+        type="submit"
+      >
+        =
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;
