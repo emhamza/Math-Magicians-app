@@ -136,3 +136,9 @@ exports[`Calculator renders correctly 1`] = `
   </div>
 </DocumentFragment>
 `;
+
+exports[`Calculator should render the component 1`] = `
+<h3>
+  Lets do some Math!
+</h3>
+`;
