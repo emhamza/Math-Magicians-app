@@ -24,7 +24,7 @@ const Calculator = () => {
     <>
       <h3>Lets do some Math!</h3>
       <div className="calculator">
-        <div className="screen">
+        <div className="screen" data-testid="screen">
           <p>
             {obj?.total}
             {' '}
